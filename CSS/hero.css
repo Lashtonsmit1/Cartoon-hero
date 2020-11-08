@@ -21,9 +21,7 @@ header{
 
 h1, h2{
 	color: white;
-	/*
-	font-family: 'Oswold'; NOT WORKING
-	*/
+	font-family: 'Oswald', sans-serif;
 }
 
 header h1{
@@ -85,9 +83,9 @@ footer{
 	padding: 20px;
 }
 
-footer p{
+/*footer p{
 	margin:5px;
-}
+}*/
 
 footer a{
 	color: white;
