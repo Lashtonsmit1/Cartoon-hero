@@ -7,7 +7,7 @@ body{
 }
 
 header{
-	background-image: url('img/light.jpg') ;
+	background-image: url('../img/light.jpg') ;
 	background-repeat: no-repeat; /* for a repeating image */
 	background-position: center center; /* X, Y position of where the image should start */
 	background-size: cover;
@@ -79,12 +79,9 @@ footer{
 	background-color: #F7661D;
 	text-align: center;
 	color: white;
-	padding: 20px 0 0 0;
+	padding: 10px 0 50px 0;
+	height: 100px;
 }
-
-/*footer p{
-	margin:5px;
-}*/
 
 footer a{
 	color: white;
@@ -105,13 +102,12 @@ p.caption{
 max-width: 76px;
     max-height: 76px;
     position: relative;
-    left: -300px;
-    bottom: 72px;
+    bottom: -20px;
 }
 .rn{
 	max-width: 70px;
 	max-height: 70px;
     position: relative;
-    left: 300px;
-    bottom: 72px;
+   	left: 10px;
+    bottom: -27px;
 }
