@@ -7,7 +7,7 @@ body{
 }
 
 header{
-	background-image: url('light.jpg') ;
+	background-image: url('img/light.jpg') ;
 	background-repeat: no-repeat; /* for a repeating image */
 	background-position: center center; /* X, Y position of where the image should start */
 	background-size: cover;
